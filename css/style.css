@@ -1,0 +1,34 @@
+ body {
+  color: white;
+   background-image:url("/image/—Pngtree—light\ effect\ line\ science\ fiction_938105.jpg");
+ }
+ h3.achievment{
+  text-align: center;
+ }
+ div1{
+  text-align: center;
+ }
+
+ 
+ 
+ 
+ hr {
+   border-style: none;
+   
+   border-top-style: dotted;
+   border-color: grey;
+   border-radius: 0em;
+   border-width: 5px;
+   width: 6%;
+ }
+ h1 {
+  color: #66BFBF;
+  
+            
+ }
+ h3{
+       color: violet;
+ }
+ a{
+  color: red;
+ }
